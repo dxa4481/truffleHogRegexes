@@ -11,6 +11,7 @@
     "Facebook OAuth": "(?i)(?:facebook).*['|\"][0-9a-f]{32}['|\"]",
     "GitHub": "(?i)(?:github).*['|\"][0-9a-z]{35,40}['|\"]",
     "Generic API Key": "(?i)(?:apikey|api_key).*['|\"].+['|\"]",
+    "Generic Password": "(?i)(?:password).*['|\"].+['|\"]",
     "Generic Secret": "(?i)(?:secret).*['|\"].+['|\"]",
     "Google API Key": "AIza[0-9A-Za-z\\-_]{35}",
     "Google Cloud Platform API Key": "AIza[0-9A-Za-z\\-_]{35}",
