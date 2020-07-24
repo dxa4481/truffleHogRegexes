@@ -12,6 +12,7 @@
     "GitHub": "[g|G][i|I][t|T][h|H][u|U][b|B].*['|\"][0-9a-zA-Z]{35,40}['|\"]",
     "Generic API Key": "[a|A][p|P][i|I][_]?[k|K][e|E][y|Y].*['|\"][0-9a-zA-Z]{32,45}['|\"]",
     "Generic Secret": "[s|S][e|E][c|C][r|R][e|E][t|T].*['|\"][0-9a-zA-Z]{32,45}['|\"]",
+    "Generic Password": "[p|P][a|A][s|S][s|S][w|W][o|O][r|R][d|D]",
     "Google API Key": "AIza[0-9A-Za-z\\-_]{35}",
     "Google Cloud Platform API Key": "AIza[0-9A-Za-z\\-_]{35}",
     "Google Cloud Platform OAuth": "[0-9]+-[0-9A-Za-z_]{32}\\.apps\\.googleusercontent\\.com",
